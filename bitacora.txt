@@ -1,0 +1,13 @@
+os = es el sistema operativa 
+Host = el dispositivo anfitrion
+kernel = la version de kernel 
+uptime = el tiempo que lleva encendido
+packages = la cantidad de programas instalados
+shell = version de el shell 
+resolution = resolucion de la pantalla 
+de = interfaz grafica de linux
+wm = administrador de ventanas
+cpu = que procesador es y que version
+gpu =  que grafica es y que version
+memory = la memoria ram
+
